@@ -20,6 +20,7 @@ A simple GUI-based Tic Tac Toe game built using Python and Tkinter.
 
 ## How to Run
 
-'''bash
-1. Clone the repository
-2. Run: python main.py
+```bash
+git clone https://github.com/Tejaswini2906/tic_tac_toe.git
+cd tic_tac_toe
+python main.py
